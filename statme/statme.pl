@@ -1,6 +1,7 @@
 use strict;
 use warnings;
 
+#Show Usage
 if (!@ARGV) {
     print "\nUsage:\n\n    statme.pl <filename>\n\n";
     exit;
